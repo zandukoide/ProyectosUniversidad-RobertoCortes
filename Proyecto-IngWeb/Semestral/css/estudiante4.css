@@ -1,0 +1,33 @@
+body {
+    background: url('../img/estudiantefondo.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Aileron', sans-serif;
+}
+.navbar {
+    background-color: #081d3c;
+}
+
+.navbar-brand img {
+    max-height: 40px;
+    margin-right: 10px;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+s
+.container-bg {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+.list-group-item {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}

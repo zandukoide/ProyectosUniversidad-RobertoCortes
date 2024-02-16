@@ -1,0 +1,50 @@
+body {
+    background: url('../img/estudiantefondo.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Aileron', sans-serif;
+}
+.navbar {
+    background-color: #081d3c;
+}
+
+.navbar-brand img {
+    max-height: 40px;
+    margin-right: 10px;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 10px;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffd700; 
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.7); 
+    color: white;
+}
+
+.custom-highlight {
+    text-shadow: -0.03px -0.03px 0 #fff, 0.03px -0.03px 0 #fff, -0.03px 0.03px 0 #fff, 0.03px 0.03px 0 #fff;
+}
+.custom-container-bg {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+}

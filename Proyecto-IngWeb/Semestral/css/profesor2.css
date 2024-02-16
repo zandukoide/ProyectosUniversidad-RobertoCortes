@@ -1,0 +1,77 @@
+body {
+    background: url('../img/unifondo.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Aileron', sans-serif;
+}
+
+.container {
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+.card {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    margin-top: 20px;
+}
+
+.card-title {
+    color: #fff;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #f8d23e;
+    border: 1px solid #f8d23e;
+}
+
+.btn-primary:hover {
+    background-color: #fff;
+    color: #f8d23e;
+}
+
+.btn-secondary {
+    background-color: #081d3c;
+    border: 1px solid #081d3c;
+}
+
+.btn-secondary:hover {
+    background-color: #fff;
+    color: #081d3c;
+}
+
+.text-success, .text-danger {
+    font-weight: bold;
+}
+.navbar {
+    background-color: #081d3c;
+}
+
+.navbar-brand img {
+    max-height: 40px;
+    margin-right: 10px;
+}
+
+.navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.container {
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+}
+
+.custom-highlight {
+    text-shadow: -0.03px -0.03px 0 #fff, 0.03px -0.03px 0 #fff, -0.03px 0.03px 0 #fff, 0.03px 0.03px 0 #fff;
+}
